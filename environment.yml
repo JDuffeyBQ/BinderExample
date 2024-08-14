@@ -1,0 +1,9 @@
+name: dream3dnx
+channels:
+  - conda-forge
+  - bluequartzsoftware
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - dream3dnx
